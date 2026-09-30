@@ -93,6 +93,7 @@
             }
         },
         "redgifs": {
+            "filename": "{filename[b:50]}.{extension}",
             "format": ["hd", "gif"]
         },
         "gfycat": {
